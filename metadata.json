@@ -1,0 +1,6 @@
+{
+  "name": "Nocturne GP — Midnight City Racing",
+  "description": "3D night-city street racing game built with React, Three.js, and WebGL featuring realistic GT cars, nitro boost, energy orbs, and smart AI rivals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
